@@ -1,5 +1,7 @@
 # SQL-Topics-And-Project-
 📊 SQL Learning Repository (Basic to Advanced)  This repository contains a structured collection of SQL concepts, queries, and practice problems ranging from beginner to advanced level. It is designed to help build strong fundamentals in databases and develop advanced query-writing skills for real-world applications and interviews.
+
+
 🔹 Basic SQL Topics
 Introduction to Databases & RDBMS
 Data Types
@@ -10,6 +12,8 @@ WHERE clause
 ORDER BY and LIMIT
 DISTINCT keyword
 Basic filtering and conditions
+
+
 🔹 Intermediate SQL Topics
 Aggregate Functions (COUNT, SUM, AVG, MIN, MAX)
 GROUP BY clause
@@ -24,6 +28,8 @@ Subqueries (nested queries)
 CASE statements
 String functions (CONCAT, SUBSTRING, LENGTH)
 Date and Time functions
+
+
 🔹 Advanced SQL Topics
 Window Functions:
 ROW_NUMBER()
@@ -39,6 +45,8 @@ Triggers
 Views
 Transactions (COMMIT, ROLLBACK, SAVEPOINT)
 Normalization (1NF, 2NF, 3NF, BCNF)
+
+
 🔹 Advanced Problem Solving
 Complex Joins with multiple tables
 Ranking and analytics problems
